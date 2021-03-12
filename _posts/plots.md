@@ -1,1 +1,2 @@
-{% include boxplot.html.html %}
+
+{% include boxplot.html %}
