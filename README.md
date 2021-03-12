@@ -6,5 +6,7 @@ Prueba de la librería de XAI descrita en el siguiente artículo: http://blog.da
     <script data-plotly="FranArenas:1" sharekey-plotly="k67yweyoZm1a0ZkefAGRqP" src="https://plotly.com/embed.js" async></script>
 </div>
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~FranArenas/1.embed"></iframe>
+
 
 
